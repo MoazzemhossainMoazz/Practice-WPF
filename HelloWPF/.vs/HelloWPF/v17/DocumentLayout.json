@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98D42E6F-32AE-468C-9873-837847644F60}|HelloWPF\\HelloWPF.csproj|d:\\technoart\\my work\\practice wpf\\hellowpf\\hellowpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{98D42E6F-32AE-468C-9873-837847644F60}|HelloWPF\\HelloWPF.csproj|solutionrelative:hellowpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{14FF843D-6262-4EB1-A818-D57726EFFA62}|Local and application wide resources\\Local and application wide resources.csproj|d:\\technoart\\my work\\practice wpf\\hellowpf\\local and application wide resources\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FF843D-6262-4EB1-A818-D57726EFFA62}|Local and application wide resources\\Local and application wide resources.csproj|solutionrelative:local and application wide resources\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FF843D-6262-4EB1-A818-D57726EFFA62}|Local and application wide resources\\Local and application wide resources.csproj|d:\\technoart\\my work\\practice wpf\\hellowpf\\local and application wide resources\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FF843D-6262-4EB1-A818-D57726EFFA62}|Local and application wide resources\\Local and application wide resources.csproj|solutionrelative:local and application wide resources\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FF843D-6262-4EB1-A818-D57726EFFA62}|Local and application wide resources\\Local and application wide resources.csproj|d:\\technoart\\my work\\practice wpf\\hellowpf\\local and application wide resources\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14FF843D-6262-4EB1-A818-D57726EFFA62}|Local and application wide resources\\Local and application wide resources.csproj|solutionrelative:local and application wide resources\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36541B5-B843-4914-97E5-6CDC7E797C65}|Resource\\Resource.csproj|d:\\technoart\\my work\\practice wpf\\hellowpf\\resource\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B36541B5-B843-4914-97E5-6CDC7E797C65}|Resource\\Resource.csproj|solutionrelative:resource\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36541B5-B843-4914-97E5-6CDC7E797C65}|Resource\\Resource.csproj|d:\\technoart\\my work\\practice wpf\\hellowpf\\resource\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36541B5-B843-4914-97E5-6CDC7E797C65}|Resource\\Resource.csproj|solutionrelative:resource\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36541B5-B843-4914-97E5-6CDC7E797C65}|Resource\\Resource.csproj|d:\\technoart\\my work\\practice wpf\\hellowpf\\resource\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36541B5-B843-4914-97E5-6CDC7E797C65}|Resource\\Resource.csproj|solutionrelative:resource\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36541B5-B843-4914-97E5-6CDC7E797C65}|Resource\\Resource.csproj|d:\\technoart\\my work\\practice wpf\\hellowpf\\resource\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B36541B5-B843-4914-97E5-6CDC7E797C65}|Resource\\Resource.csproj|solutionrelative:resource\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FF843D-6262-4EB1-A818-D57726EFFA62}|Local and application wide resources\\Local and application wide resources.csproj|d:\\technoart\\my work\\practice wpf\\hellowpf\\local and application wide resources\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14FF843D-6262-4EB1-A818-D57726EFFA62}|Local and application wide resources\\Local and application wide resources.csproj|solutionrelative:local and application wide resources\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14FF843D-6262-4EB1-A818-D57726EFFA62}|Local and application wide resources\\Local and application wide resources.csproj|d:\\technoart\\my work\\practice wpf\\hellowpf\\local and application wide resources\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14FF843D-6262-4EB1-A818-D57726EFFA62}|Local and application wide resources\\Local and application wide resources.csproj|solutionrelative:local and application wide resources\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{98D42E6F-32AE-468C-9873-837847644F60}|HelloWPF\\HelloWPF.csproj|d:\\technoart\\my work\\practice wpf\\hellowpf\\hellowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98D42E6F-32AE-468C-9873-837847644F60}|HelloWPF\\HelloWPF.csproj|solutionrelative:hellowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36541B5-B843-4914-97E5-6CDC7E797C65}|Resource\\Resource.csproj|d:\\technoart\\my work\\practice wpf\\hellowpf\\resource\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36541B5-B843-4914-97E5-6CDC7E797C65}|Resource\\Resource.csproj|solutionrelative:resource\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,25 +70,139 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Local and application wide resources\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Local and application wide resources\\App.xaml.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Local and application wide resources\\App.xaml.cs",
+              "RelativeToolTip": "Local and application wide resources\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:26:59.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Resource\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Resource\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Resource\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Resource\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T09:36:35.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\HelloWPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "HelloWPF\\MainWindow.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\HelloWPF\\MainWindow.xaml",
-              "RelativeToolTip": "HelloWPF\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Resource\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Resource\\MainWindow.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Resource\\MainWindow.xaml",
+              "RelativeToolTip": "Resource\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-12T06:06:04.791Z",
+              "WhenOpened": "2025-01-12T09:36:35.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Resource\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Resource\\AssemblyInfo.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Resource\\AssemblyInfo.cs",
+              "RelativeToolTip": "Resource\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:11:50.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Local and application wide resources\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Local and application wide resources\\AssemblyInfo.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Local and application wide resources\\AssemblyInfo.cs",
+              "RelativeToolTip": "Local and application wide resources\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:37:10.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Resource\\App.xaml",
+              "RelativeDocumentMoniker": "Resource\\App.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Resource\\App.xaml",
+              "RelativeToolTip": "Resource\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T11:14:44.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Local and application wide resources\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Local and application wide resources\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Local and application wide resources\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Local and application wide resources\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:19:11.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Local and application wide resources\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Local and application wide resources\\MainWindow.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Local and application wide resources\\MainWindow.xaml",
+              "RelativeToolTip": "Local and application wide resources\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T11:19:12.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Local and application wide resources\\App.xaml",
+              "RelativeDocumentMoniker": "Local and application wide resources\\App.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Local and application wide resources\\App.xaml",
+              "RelativeToolTip": "Local and application wide resources\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-12T11:20:23.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Resource\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Resource\\App.xaml.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\Resource\\App.xaml.cs",
+              "RelativeToolTip": "Resource\\App.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T11:14:05.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\HelloWPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "HelloWPF\\MainWindow.xaml.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\HelloWPF\\HelloWPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "HelloWPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T06:05:52.643Z",
               "EditorCaption": ""

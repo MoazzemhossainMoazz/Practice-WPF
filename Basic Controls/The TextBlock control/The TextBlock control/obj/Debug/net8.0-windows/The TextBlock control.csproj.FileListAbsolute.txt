@@ -1,0 +1,21 @@
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\bin\Debug\net8.0-windows\The TextBlock control.exe
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\bin\Debug\net8.0-windows\The TextBlock control.deps.json
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\bin\Debug\net8.0-windows\The TextBlock control.runtimeconfig.json
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\bin\Debug\net8.0-windows\The TextBlock control.dll
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\bin\Debug\net8.0-windows\The TextBlock control.pdb
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\obj\Debug\net8.0-windows\App.g.cs
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\obj\Debug\net8.0-windows\The TextBlock control_MarkupCompile.cache
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\obj\Debug\net8.0-windows\The TextBlock control_MarkupCompile.lref
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\obj\Debug\net8.0-windows\MainWindow.baml
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\obj\Debug\net8.0-windows\The TextBlock control.g.resources
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\obj\Debug\net8.0-windows\The TextBlock control.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\obj\Debug\net8.0-windows\The TextBlock control.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\obj\Debug\net8.0-windows\The TextBlock control.AssemblyInfo.cs
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\obj\Debug\net8.0-windows\The TextBlock control.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\obj\Debug\net8.0-windows\The TextBlock control.sourcelink.json
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\obj\Debug\net8.0-windows\The TextBlock control.dll
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\obj\Debug\net8.0-windows\refint\The TextBlock control.dll
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\obj\Debug\net8.0-windows\The TextBlock control.pdb
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\obj\Debug\net8.0-windows\The TextBlock control.genruntimeconfig.cache
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\The TextBlock control\The TextBlock control\obj\Debug\net8.0-windows\ref\The TextBlock control.dll
