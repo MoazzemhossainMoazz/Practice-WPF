@@ -1,0 +1,41 @@
+﻿<Window x:Class="The_Label_Control.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:The_Label_Control"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    
+    
+    <!--<Grid>
+        --><!--<Label Content="This is a Label control" />--><!--
+    </Grid>-->
+
+    <!--Label and Access keys-->
+    <!--<StackPanel Margin="40">
+        <Label Content="Name" Target="{Binding ElementName=textName}" />
+        <TextBox Name="txtName" />
+        <Label Content="_Mail:" Target="{Binding ElementName=txtMail}" />
+        <TextBox Name="txtMail" />
+    </StackPanel>-->
+
+
+    <!--Using controls as Label content-->
+    <StackPanel Margin="10">
+        <Label Target="{Binding ElementName=txtName}">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="http://cdn1.iconfinder.com/data/icons/fatcow/16/bullet_green.png" />
+                <AccessText Text="_Name:" />
+            </StackPanel>
+        </Label>
+        <TextBox Name="txtName"  />
+        <Label Target="{Binding ElementName=extMail}">
+            <StackPanel Orientation="Horizontal">
+                <Image Source="http://cdn1.iconfinder.com/data/icons/fatcow/16/bullet_blue.png" />
+                <AccessText Text="_Mail:" />
+            </StackPanel>
+        </Label>
+        <TextBox Name="txtMail" />
+    </StackPanel>
+</Window>
