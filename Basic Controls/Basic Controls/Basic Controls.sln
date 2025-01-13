@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic Controls", "Basic Controls\Basic Controls.csproj", "{2F35070F-F97C-41A9-A15B-072752523885}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Label Control", "The Label Control\The Label Control.csproj", "{4441C4E1-87FF-4F2A-8440-7B53151C955C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Label Control", "The Label Control\The Label Control.csproj", "{4441C4E1-87FF-4F2A-8440-7B53151C955C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The TextBox control", "The TextBox control\The TextBox control.csproj", "{037A2077-1797-47B5-B250-C6F866179523}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4441C4E1-87FF-4F2A-8440-7B53151C955C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4441C4E1-87FF-4F2A-8440-7B53151C955C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4441C4E1-87FF-4F2A-8440-7B53151C955C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037A2077-1797-47B5-B250-C6F866179523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037A2077-1797-47B5-B250-C6F866179523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037A2077-1797-47B5-B250-C6F866179523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037A2077-1797-47B5-B250-C6F866179523}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

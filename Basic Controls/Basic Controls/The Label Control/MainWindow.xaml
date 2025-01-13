@@ -25,14 +25,14 @@
     <StackPanel Margin="10">
         <Label Target="{Binding ElementName=txtName}">
             <StackPanel Orientation="Horizontal">
-                <Image Source="http://cdn1.iconfinder.com/data/icons/fatcow/16/bullet_green.png" />
+                <Image Source="https://cdn2.iconfinder.com/data/icons/ceo-flat/32/Ceo_Name_Plate_Boss_Executive_Administrator-256.png" Height="20"/>
                 <AccessText Text="_Name:" />
             </StackPanel>
         </Label>
         <TextBox Name="txtName"  />
         <Label Target="{Binding ElementName=extMail}">
             <StackPanel Orientation="Horizontal">
-                <Image Source="http://cdn1.iconfinder.com/data/icons/fatcow/16/bullet_blue.png" />
+                <Image Source="https://cdn1.iconfinder.com/data/icons/aami-flat-emails/64/email-41-256.png" Height="20"/>
                 <AccessText Text="_Mail:" />
             </StackPanel>
         </Label>

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{037A2077-1797-47B5-B250-C6F866179523}|The TextBox control\\The TextBox control.csproj|d:\\technoart\\my work\\practice wpf\\basic controls\\basic controls\\the textbox control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{037A2077-1797-47B5-B250-C6F866179523}|The TextBox control\\The TextBox control.csproj|solutionrelative:the textbox control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4441C4E1-87FF-4F2A-8440-7B53151C955C}|The Label Control\\The Label Control.csproj|d:\\technoart\\my work\\practice wpf\\basic controls\\basic controls\\the label control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4441C4E1-87FF-4F2A-8440-7B53151C955C}|The Label Control\\The Label Control.csproj|solutionrelative:the label control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4441C4E1-87FF-4F2A-8440-7B53151C955C}|The Label Control\\The Label Control.csproj|d:\\technoart\\my work\\practice wpf\\basic controls\\basic controls\\the label control\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4441C4E1-87FF-4F2A-8440-7B53151C955C}|The Label Control\\The Label Control.csproj|solutionrelative:the label control\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037A2077-1797-47B5-B250-C6F866179523}|The TextBox control\\The TextBox control.csproj|d:\\technoart\\my work\\practice wpf\\basic controls\\basic controls\\the textbox control\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037A2077-1797-47B5-B250-C6F866179523}|The TextBox control\\The TextBox control.csproj|solutionrelative:the textbox control\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F35070F-F97C-41A9-A15B-072752523885}|Basic Controls\\Basic Controls.csproj|d:\\technoart\\my work\\practice wpf\\basic controls\\basic controls\\basic controls\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,6 +52,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\The TextBox control\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "The TextBox control\\MainWindow.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\The TextBox control\\MainWindow.xaml",
+              "RelativeToolTip": "The TextBox control\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-13T11:25:38.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\The TextBox control\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "The TextBox control\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\The TextBox control\\MainWindow.xaml.cs",
+              "RelativeToolTip": "The TextBox control\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:25:37.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\The Label Control\\MainWindow.xaml",
               "RelativeDocumentMoniker": "The Label Control\\MainWindow.xaml",
               "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\The Label Control\\MainWindow.xaml",
@@ -54,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\The Label Control\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "The Label Control\\MainWindow.xaml.cs",
@@ -62,11 +95,12 @@
               "RelativeToolTip": "The Label Control\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T08:32:53.466Z"
+              "WhenOpened": "2025-01-13T08:32:53.466Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\Basic Controls\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Basic Controls\\MainWindow.xaml",
@@ -77,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\Basic Controls\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Basic Controls\\MainWindow.xaml.cs",
