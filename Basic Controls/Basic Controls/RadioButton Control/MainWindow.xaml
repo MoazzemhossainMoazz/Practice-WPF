@@ -7,10 +7,41 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <StackPanel Margin="10">
-        <Label FontWeight="Bold">Are you ready?</Label>
+        <!--<Label FontWeight="Bold">Are you ready?</Label>
         <RadioButton>Yes</RadioButton>
         <RadioButton>No</RadioButton>
-        <RadioButton IsChecked="True">Maybe</RadioButton>
-        
+        <RadioButton IsChecked="True">Maybe</RadioButton>-->
+
+
+        <!--<Label FontWeight="bold">Are you ready</Label>
+        <RadioButton GroupName="Ready">Yes</RadioButton>
+        <RadioButton GroupName="Ready">No</RadioButton>
+        <RadioButton GroupName="Ready" IsChecked="true">Maybe</RadioButton>
+
+        <Label FontWeight="bold">Male or Female</Label>
+        <RadioButton GroupName="Gender" IsChecked="true">Male</RadioButton>
+        <RadioButton GroupName="Gender">Female</RadioButton>
+        <RadioButton GroupName="Gender">Not sure</RadioButton>-->
+
+
+        <Label FontWeight="bold">Are you ready</Label>
+        <RadioButton>
+            <WrapPanel>
+            <Image Source="https://cdn1.iconfinder.com/data/icons/basic-ui-elements-color-round/3/15-256.png" Width="16" Height="16" Margin="0,0,5,0" />
+            <TextBlock Text="yes" Foreground="green" />
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton Margin="0,5">
+            <WrapPanel>
+                <Image Source="https://cdn3.iconfinder.com/data/icons/basicolor-arrows-checks/24/151_check_no_delete_error_remove-256.png" Width="18" Height="18" Margin="0,0,5,0" />
+                <TextBlock Text="No" Foreground="Red" />
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton IsChecked="true">
+            <WrapPanel>
+                <Image Source="https://cdn3.iconfinder.com/data/icons/fluent-regular-24px-vol-2/24/ic_fluent_chat_bubbles_question_24_regular-256.png" Width="18" Height="18" Margin="0,0,5,0" />
+                <TextBlock Text="Maybe" Foreground="Gray" />
+            </WrapPanel>
+        </RadioButton>
     </StackPanel>
 </Window>
