@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{992A5C2F-8EF9-44CE-B9B8-C84C8A34F611}|The PasswordBox control\\The PasswordBox control.csproj|d:\\technoart\\my work\\practice wpf\\basic controls\\basic controls\\the passwordbox control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{992A5C2F-8EF9-44CE-B9B8-C84C8A34F611}|The PasswordBox control\\The PasswordBox control.csproj|solutionrelative:the passwordbox control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{992A5C2F-8EF9-44CE-B9B8-C84C8A34F611}|The PasswordBox control\\The PasswordBox control.csproj|d:\\technoart\\my work\\practice wpf\\basic controls\\basic controls\\the passwordbox control\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{992A5C2F-8EF9-44CE-B9B8-C84C8A34F611}|The PasswordBox control\\The PasswordBox control.csproj|solutionrelative:the passwordbox control\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33CBA5A3-A03B-4A87-93F8-B2E97B35AB28}|RadioButton Control\\RadioButton Control.csproj|d:\\technoart\\my work\\practice wpf\\basic controls\\basic controls\\radiobutton control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{33CBA5A3-A03B-4A87-93F8-B2E97B35AB28}|RadioButton Control\\RadioButton Control.csproj|solutionrelative:radiobutton control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -40,6 +48,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\The PasswordBox control\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "The PasswordBox control\\MainWindow.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\The PasswordBox control\\MainWindow.xaml",
+              "RelativeToolTip": "The PasswordBox control\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-14T13:32:08.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\The PasswordBox control\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "The PasswordBox control\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\The PasswordBox control\\MainWindow.xaml.cs",
+              "RelativeToolTip": "The PasswordBox control\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T13:32:06.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\RadioButton Control\\MainWindow.xaml",
               "RelativeDocumentMoniker": "RadioButton Control\\MainWindow.xaml",
               "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\RadioButton Control\\MainWindow.xaml",
@@ -50,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\The Checkbox Control\\MainWindow.xaml",
               "RelativeDocumentMoniker": "The Checkbox Control\\MainWindow.xaml",
@@ -61,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Basic Controls\\Basic Controls\\The Checkbox Control\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "The Checkbox Control\\MainWindow.xaml.cs",
