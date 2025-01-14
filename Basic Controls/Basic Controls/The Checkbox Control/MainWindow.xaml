@@ -6,14 +6,18 @@
         xmlns:local="clr-namespace:The_Checkbox_Control"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <StackPanel Margin="30">
+    
+    <!--<StackPanel Margin="30">-->
+        
         
         <!--<Label FontWeight="bold">Application Option</Label>
         <CheckBox>Enable feature abc</CheckBox>
         <CheckBox IsChecked="true">Enable feature xyz</CheckBox>
         <CheckBox>Enable feature www</CheckBox>-->
 
-        <Label FontWeight="bold">Application Options</Label>
+        
+        <!--Custom content-->
+        <!--<Label FontWeight="bold">Application Options</Label>
         <CheckBox>
             <TextBlock>
                 Enable feature <Run Foreground="Green" FontWeight="bold">ABC</Run>
@@ -31,6 +35,18 @@
             <TextBlock>
                 Enable feature <Run Foreground="Blue" TextDecorations="Underline" FontWeight="bold">WWW</Run>
             </TextBlock>
-        </CheckBox>
+        </CheckBox>-->
+
+
+    <StackPanel Margin="10">
+        <Label FontWeight="Bold">Application Options</Label>
+        <StackPanel Margin="10,5">
+            <CheckBox IsThreeState="True" Name="cbAllFeatures" Checked="cbAllFeatures_CheckedChanged" Unchecked="cbAllFeatures_CheckedChanged">Enable all</CheckBox>
+            <StackPanel Margin="20,5">
+                <CheckBox Name="cbFeatureAbc" Checked="cbFeature_CheckedChanged" Unchecked="cbFeature_CheckedChanged">Enable feature ABC</CheckBox>
+                <CheckBox Name="cbFeatureXyz" IsChecked="True" Checked="cbFeature_CheckedChanged" Unchecked="cbFeature_CheckedChanged">Enable feature XYZ</CheckBox>
+                <CheckBox Name="cbFeatureWww" Checked="cbFeature_CheckedChanged" Unchecked="cbFeature_CheckedChanged">Enable feature WWW</CheckBox>
+            </StackPanel>
+        </StackPanel>
     </StackPanel>
 </Window>

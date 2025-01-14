@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The Button Control")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33b18b2f00076a87a697d140cf76090576ad62e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0055906c59bca9499be91e664bbf1cee18a44b82")]
 [assembly: System.Reflection.AssemblyProductAttribute("The Button Control")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The Button Control")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
