@@ -1,0 +1,21 @@
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\bin\Debug\net8.0-windows\The Checkbox Control.exe
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\bin\Debug\net8.0-windows\The Checkbox Control.deps.json
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\bin\Debug\net8.0-windows\The Checkbox Control.runtimeconfig.json
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\bin\Debug\net8.0-windows\The Checkbox Control.dll
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\bin\Debug\net8.0-windows\The Checkbox Control.pdb
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\obj\Debug\net8.0-windows\App.g.cs
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\obj\Debug\net8.0-windows\The Checkbox Control_MarkupCompile.cache
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\obj\Debug\net8.0-windows\The Checkbox Control_MarkupCompile.lref
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\obj\Debug\net8.0-windows\MainWindow.baml
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\obj\Debug\net8.0-windows\The Checkbox Control.g.resources
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\obj\Debug\net8.0-windows\The Checkbox Control.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\obj\Debug\net8.0-windows\The Checkbox Control.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\obj\Debug\net8.0-windows\The Checkbox Control.AssemblyInfo.cs
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\obj\Debug\net8.0-windows\The Checkbox Control.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\obj\Debug\net8.0-windows\The Checkbox Control.sourcelink.json
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\obj\Debug\net8.0-windows\The Checkbox Control.dll
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\obj\Debug\net8.0-windows\refint\The Checkbox Control.dll
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\obj\Debug\net8.0-windows\The Checkbox Control.pdb
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\obj\Debug\net8.0-windows\The Checkbox Control.genruntimeconfig.cache
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Checkbox Control\obj\Debug\net8.0-windows\ref\The Checkbox Control.dll

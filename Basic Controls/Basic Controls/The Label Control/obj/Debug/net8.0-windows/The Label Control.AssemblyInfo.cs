@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The Label Control")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49e5c04d445477b7a609f0007867f18373935521")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33b18b2f00076a87a697d140cf76090576ad62e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("The Label Control")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The Label Control")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

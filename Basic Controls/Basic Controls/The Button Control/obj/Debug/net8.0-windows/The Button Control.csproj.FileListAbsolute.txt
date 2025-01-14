@@ -1,0 +1,21 @@
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\bin\Debug\net8.0-windows\The Button Control.exe
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\bin\Debug\net8.0-windows\The Button Control.deps.json
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\bin\Debug\net8.0-windows\The Button Control.runtimeconfig.json
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\bin\Debug\net8.0-windows\The Button Control.dll
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\bin\Debug\net8.0-windows\The Button Control.pdb
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\obj\Debug\net8.0-windows\App.g.cs
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\obj\Debug\net8.0-windows\The Button Control_MarkupCompile.cache
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\obj\Debug\net8.0-windows\The Button Control_MarkupCompile.lref
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\obj\Debug\net8.0-windows\MainWindow.baml
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\obj\Debug\net8.0-windows\The Button Control.g.resources
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\obj\Debug\net8.0-windows\The Button Control.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\obj\Debug\net8.0-windows\The Button Control.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\obj\Debug\net8.0-windows\The Button Control.AssemblyInfo.cs
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\obj\Debug\net8.0-windows\The Button Control.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\obj\Debug\net8.0-windows\The Button Control.sourcelink.json
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\obj\Debug\net8.0-windows\The Button Control.dll
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\obj\Debug\net8.0-windows\refint\The Button Control.dll
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\obj\Debug\net8.0-windows\The Button Control.pdb
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\obj\Debug\net8.0-windows\The Button Control.genruntimeconfig.cache
+D:\TechnoArt\My Work\Practice WPF\Basic Controls\Basic Controls\The Button Control\obj\Debug\net8.0-windows\ref\The Button Control.dll

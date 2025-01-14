@@ -1,0 +1,36 @@
+﻿<Window x:Class="The_Checkbox_Control.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:The_Checkbox_Control"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Margin="30">
+        
+        <!--<Label FontWeight="bold">Application Option</Label>
+        <CheckBox>Enable feature abc</CheckBox>
+        <CheckBox IsChecked="true">Enable feature xyz</CheckBox>
+        <CheckBox>Enable feature www</CheckBox>-->
+
+        <Label FontWeight="bold">Application Options</Label>
+        <CheckBox>
+            <TextBlock>
+                Enable feature <Run Foreground="Green" FontWeight="bold">ABC</Run>
+            </TextBlock>
+        </CheckBox>
+        <CheckBox>
+            <WrapPanel>
+                <TextBlock>
+                    Enable feature <Run FontWeight="Bold">Xyz</Run>
+                </TextBlock>
+                <Image Source="/WpfTutorialSamples;component/Images/question.png" Width="16" Height="16" Margin="5,0"/>
+            </WrapPanel>
+        </CheckBox>
+        <CheckBox IsChecked="true">
+            <TextBlock>
+                Enable feature <Run Foreground="Blue" TextDecorations="Underline" FontWeight="bold">WWW</Run>
+            </TextBlock>
+        </CheckBox>
+    </StackPanel>
+</Window>
