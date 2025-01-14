@@ -21,49 +21,35 @@ namespace The_Checkbox_Control
             InitializeComponent();
         }
 
-        private void cbFeature_CheckdChanged(object sender, RoutedEventArgs e)
+        private void cbAllFeatures_Unchecked(object sender, RoutedEventArgs e)
         {
-
-        }
-
-        private void cbFeature_CheckedChanged(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void cbFeatureWww_Checked(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void cbFeatureWww_Unchecked(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void cbFeatureXyz_Unchecked(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void cbFeatureXyz_Checked(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void cbFeatureAbc_Checked(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void cbFeatureAbc_Unchecked(object sender, RoutedEventArgs e)
-        {
-
+            cbFeatureAbc.IsChecked = false;
+            cbFeatureXyz.IsChecked = false;
+            cbFeatureWww.IsChecked = false;
         }
 
         private void cbAllFeatures_CheckedChanged(object sender, RoutedEventArgs e)
         {
+            cbFeatureAbc.IsChecked = true;
+            cbFeatureXyz.IsChecked = true;
+            cbFeatureWww.IsChecked = true;
+        }
+
+        private void cbFeatureAbc_Checked(object sender, RoutedEventArgs e)
+        {
+           
+        }
+
+        private void cbFeatureAbc_Unchecked(object sender, RoutedEventArgs e)
+        {
+             
+        }
+
+        private void cbFeatureAbc_Click(object sender, RoutedEventArgs e)
+        {
 
         }
+
+       
     }
 }
