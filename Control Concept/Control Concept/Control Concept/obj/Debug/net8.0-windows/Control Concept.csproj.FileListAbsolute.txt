@@ -1,0 +1,21 @@
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\bin\Debug\net8.0-windows\Control Concept.exe
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\bin\Debug\net8.0-windows\Control Concept.deps.json
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\bin\Debug\net8.0-windows\Control Concept.runtimeconfig.json
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\bin\Debug\net8.0-windows\Control Concept.dll
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\bin\Debug\net8.0-windows\Control Concept.pdb
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\obj\Debug\net8.0-windows\App.g.cs
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\obj\Debug\net8.0-windows\Control Concept_MarkupCompile.cache
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\obj\Debug\net8.0-windows\Control Concept_MarkupCompile.lref
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\obj\Debug\net8.0-windows\MainWindow.baml
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\obj\Debug\net8.0-windows\Control Concept.g.resources
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\obj\Debug\net8.0-windows\Control Concept.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\obj\Debug\net8.0-windows\Control Concept.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\obj\Debug\net8.0-windows\Control Concept.AssemblyInfo.cs
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\obj\Debug\net8.0-windows\Control Concept.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\obj\Debug\net8.0-windows\Control Concept.sourcelink.json
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\obj\Debug\net8.0-windows\Control Concept.dll
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\obj\Debug\net8.0-windows\refint\Control Concept.dll
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\obj\Debug\net8.0-windows\Control Concept.pdb
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\obj\Debug\net8.0-windows\Control Concept.genruntimeconfig.cache
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\Control Concept\obj\Debug\net8.0-windows\ref\Control Concept.dll
