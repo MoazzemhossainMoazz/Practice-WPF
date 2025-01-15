@@ -1,0 +1,21 @@
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\bin\Debug\net8.0-windows\WPF text rendering.exe
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\bin\Debug\net8.0-windows\WPF text rendering.deps.json
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\bin\Debug\net8.0-windows\WPF text rendering.runtimeconfig.json
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\bin\Debug\net8.0-windows\WPF text rendering.dll
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\bin\Debug\net8.0-windows\WPF text rendering.pdb
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\obj\Debug\net8.0-windows\App.g.cs
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\obj\Debug\net8.0-windows\WPF text rendering_MarkupCompile.cache
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\obj\Debug\net8.0-windows\WPF text rendering_MarkupCompile.lref
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\obj\Debug\net8.0-windows\MainWindow.baml
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\obj\Debug\net8.0-windows\WPF text rendering.g.resources
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\obj\Debug\net8.0-windows\WPF text rendering.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\obj\Debug\net8.0-windows\WPF text rendering.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\obj\Debug\net8.0-windows\WPF text rendering.AssemblyInfo.cs
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\obj\Debug\net8.0-windows\WPF text rendering.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\obj\Debug\net8.0-windows\WPF text rendering.sourcelink.json
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\obj\Debug\net8.0-windows\WPF text rendering.dll
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\obj\Debug\net8.0-windows\refint\WPF text rendering.dll
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\obj\Debug\net8.0-windows\WPF text rendering.pdb
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\obj\Debug\net8.0-windows\WPF text rendering.genruntimeconfig.cache
+D:\TechnoArt\My Work\Practice WPF\Control Concept\Control Concept\WPF text rendering\obj\Debug\net8.0-windows\ref\WPF text rendering.dll
