@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WPF text rendering")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0269f98a906c6b64486af65cdd9b5ac9db72772d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8574b56b8e8687a186c5f55fb531fb529a0e212e")]
 [assembly: System.Reflection.AssemblyProductAttribute("WPF text rendering")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WPF text rendering")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
