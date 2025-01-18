@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The WrapPanel control")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d483d0548059d09b42cdb98bd54127a4e8ab7f0a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df174f569833a4b898b257a2d8bd843d522e34fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("The WrapPanel control")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The WrapPanel control")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

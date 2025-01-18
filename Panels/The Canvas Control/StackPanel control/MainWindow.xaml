@@ -35,10 +35,10 @@
 
     <StackPanel Orientation="Vertical">
         <Button HorizontalAlignment="Left">Button 1</Button>
-        <Button HorizontalAlignment="Center">Center 2</Button>
-        <Button HorizontalAlignment="Right">Center 3</Button>
-        <Button HorizontalAlignment="Right">center 4</Button>
+        <Button HorizontalAlignment="Center">Button 2</Button>
+        <Button HorizontalAlignment="Right">Button 3</Button>
+        <Button HorizontalAlignment="Right">Button 4</Button>
         <Button HorizontalAlignment="Center">Button 5</Button>
-        <Button HorizontalAlignment="Left">Left 6</Button>
+        <Button HorizontalAlignment="Left">Button 6</Button>
     </StackPanel>
 </Window>
