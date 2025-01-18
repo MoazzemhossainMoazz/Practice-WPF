@@ -1,0 +1,21 @@
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\bin\Debug\net8.0-windows\StackPanel control.exe
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\bin\Debug\net8.0-windows\StackPanel control.deps.json
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\bin\Debug\net8.0-windows\StackPanel control.runtimeconfig.json
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\bin\Debug\net8.0-windows\StackPanel control.dll
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\bin\Debug\net8.0-windows\StackPanel control.pdb
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\obj\Debug\net8.0-windows\App.g.cs
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\obj\Debug\net8.0-windows\StackPanel control_MarkupCompile.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\obj\Debug\net8.0-windows\StackPanel control_MarkupCompile.lref
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\obj\Debug\net8.0-windows\MainWindow.baml
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\obj\Debug\net8.0-windows\StackPanel control.g.resources
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\obj\Debug\net8.0-windows\StackPanel control.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\obj\Debug\net8.0-windows\StackPanel control.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\obj\Debug\net8.0-windows\StackPanel control.AssemblyInfo.cs
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\obj\Debug\net8.0-windows\StackPanel control.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\obj\Debug\net8.0-windows\StackPanel control.sourcelink.json
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\obj\Debug\net8.0-windows\StackPanel control.dll
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\obj\Debug\net8.0-windows\refint\StackPanel control.dll
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\obj\Debug\net8.0-windows\StackPanel control.pdb
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\obj\Debug\net8.0-windows\StackPanel control.genruntimeconfig.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\StackPanel control\obj\Debug\net8.0-windows\ref\StackPanel control.dll
