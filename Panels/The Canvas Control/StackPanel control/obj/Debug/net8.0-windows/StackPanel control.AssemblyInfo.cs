@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StackPanel control")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df174f569833a4b898b257a2d8bd843d522e34fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+863775e6bac99c6f177f5901f1812dc8ade7d775")]
 [assembly: System.Reflection.AssemblyProductAttribute("StackPanel control")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StackPanel control")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

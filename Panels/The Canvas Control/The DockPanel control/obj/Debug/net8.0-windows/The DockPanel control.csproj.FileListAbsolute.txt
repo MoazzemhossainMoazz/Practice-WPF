@@ -1,0 +1,21 @@
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\bin\Debug\net8.0-windows\The DockPanel control.exe
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\bin\Debug\net8.0-windows\The DockPanel control.deps.json
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\bin\Debug\net8.0-windows\The DockPanel control.runtimeconfig.json
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\bin\Debug\net8.0-windows\The DockPanel control.dll
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\bin\Debug\net8.0-windows\The DockPanel control.pdb
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\obj\Debug\net8.0-windows\App.g.cs
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\obj\Debug\net8.0-windows\The DockPanel control_MarkupCompile.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\obj\Debug\net8.0-windows\The DockPanel control_MarkupCompile.lref
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\obj\Debug\net8.0-windows\MainWindow.baml
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\obj\Debug\net8.0-windows\The DockPanel control.g.resources
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\obj\Debug\net8.0-windows\The DockPanel control.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\obj\Debug\net8.0-windows\The DockPanel control.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\obj\Debug\net8.0-windows\The DockPanel control.AssemblyInfo.cs
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\obj\Debug\net8.0-windows\The DockPanel control.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\obj\Debug\net8.0-windows\The DockPanel control.sourcelink.json
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\obj\Debug\net8.0-windows\The DockPanel control.dll
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\obj\Debug\net8.0-windows\refint\The DockPanel control.dll
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\obj\Debug\net8.0-windows\The DockPanel control.pdb
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\obj\Debug\net8.0-windows\The DockPanel control.genruntimeconfig.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The DockPanel control\obj\Debug\net8.0-windows\ref\The DockPanel control.dll
