@@ -1,0 +1,21 @@
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\obj\Debug\net8.0-windows\App.g.cs
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\obj\Debug\net8.0-windows\The Canvas Control_MarkupCompile.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\bin\Debug\net8.0-windows\The Canvas Control.exe
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\bin\Debug\net8.0-windows\The Canvas Control.deps.json
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\bin\Debug\net8.0-windows\The Canvas Control.runtimeconfig.json
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\bin\Debug\net8.0-windows\The Canvas Control.dll
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\bin\Debug\net8.0-windows\The Canvas Control.pdb
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\obj\Debug\net8.0-windows\The Canvas Control_MarkupCompile.lref
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\obj\Debug\net8.0-windows\MainWindow.baml
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\obj\Debug\net8.0-windows\The Canvas Control.g.resources
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\obj\Debug\net8.0-windows\The Canvas Control.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\obj\Debug\net8.0-windows\The Canvas Control.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\obj\Debug\net8.0-windows\The Canvas Control.AssemblyInfo.cs
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\obj\Debug\net8.0-windows\The Canvas Control.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\obj\Debug\net8.0-windows\The Canvas Control.sourcelink.json
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\obj\Debug\net8.0-windows\The Canvas Control.dll
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\obj\Debug\net8.0-windows\refint\The Canvas Control.dll
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\obj\Debug\net8.0-windows\The Canvas Control.pdb
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\obj\Debug\net8.0-windows\The Canvas Control.genruntimeconfig.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Canvas Control\obj\Debug\net8.0-windows\ref\The Canvas Control.dll
