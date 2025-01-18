@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Grid-Units/1.0.0": {
+        "runtime": {
+          "Grid-Units.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grid-Units/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
