@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Canvas Control", "The Canvas Control\The Canvas Control.csproj", "{0C59A0CE-9863-4F44-B5DE-1934A3B122BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Canvas Control", "The Canvas Control\The Canvas Control.csproj", "{0C59A0CE-9863-4F44-B5DE-1934A3B122BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The WrapPanel control", "The WrapPanel control\The WrapPanel control.csproj", "{D5B82A21-F1F6-40DC-91A0-C51552D6C7B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0C59A0CE-9863-4F44-B5DE-1934A3B122BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C59A0CE-9863-4F44-B5DE-1934A3B122BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C59A0CE-9863-4F44-B5DE-1934A3B122BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5B82A21-F1F6-40DC-91A0-C51552D6C7B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B82A21-F1F6-40DC-91A0-C51552D6C7B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B82A21-F1F6-40DC-91A0-C51552D6C7B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B82A21-F1F6-40DC-91A0-C51552D6C7B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

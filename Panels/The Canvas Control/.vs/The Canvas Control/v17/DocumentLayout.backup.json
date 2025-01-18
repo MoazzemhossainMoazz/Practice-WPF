@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5B82A21-F1F6-40DC-91A0-C51552D6C7B2}|The WrapPanel control\\The WrapPanel control.csproj|d:\\technoart\\my work\\practice wpf\\panels\\the canvas control\\the wrappanel control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5B82A21-F1F6-40DC-91A0-C51552D6C7B2}|The WrapPanel control\\The WrapPanel control.csproj|solutionrelative:the wrappanel control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B82A21-F1F6-40DC-91A0-C51552D6C7B2}|The WrapPanel control\\The WrapPanel control.csproj|d:\\technoart\\my work\\practice wpf\\panels\\the canvas control\\the wrappanel control\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B82A21-F1F6-40DC-91A0-C51552D6C7B2}|The WrapPanel control\\The WrapPanel control.csproj|solutionrelative:the wrappanel control\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0C59A0CE-9863-4F44-B5DE-1934A3B122BE}|The Canvas Control\\The Canvas Control.csproj|d:\\technoart\\my work\\practice wpf\\panels\\the canvas control\\the canvas control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0C59A0CE-9863-4F44-B5DE-1934A3B122BE}|The Canvas Control\\The Canvas Control.csproj|solutionrelative:the canvas control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -36,17 +44,42 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The WrapPanel control\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "The WrapPanel control\\MainWindow.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The WrapPanel control\\MainWindow.xaml*",
+              "RelativeToolTip": "The WrapPanel control\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-18T08:43:59.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The WrapPanel control\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "The WrapPanel control\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The WrapPanel control\\MainWindow.xaml.cs",
+              "RelativeToolTip": "The WrapPanel control\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T08:43:58.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The Canvas Control\\MainWindow.xaml",
               "RelativeDocumentMoniker": "The Canvas Control\\MainWindow.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The Canvas Control\\MainWindow.xaml*",
-              "RelativeToolTip": "The Canvas Control\\MainWindow.xaml*",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The Canvas Control\\MainWindow.xaml",
+              "RelativeToolTip": "The Canvas Control\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-18T07:09:55.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The Canvas Control\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "The Canvas Control\\MainWindow.xaml.cs",
@@ -54,8 +87,7 @@
               "RelativeToolTip": "The Canvas Control\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T07:09:50.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-18T07:09:50.157Z"
             }
           ]
         }
