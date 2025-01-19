@@ -1,0 +1,21 @@
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\bin\Debug\net8.0-windows\The Grid contact form.exe
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\bin\Debug\net8.0-windows\The Grid contact form.deps.json
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\bin\Debug\net8.0-windows\The Grid contact form.runtimeconfig.json
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\bin\Debug\net8.0-windows\The Grid contact form.dll
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\bin\Debug\net8.0-windows\The Grid contact form.pdb
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\obj\Debug\net8.0-windows\App.g.cs
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\obj\Debug\net8.0-windows\The Grid contact form_MarkupCompile.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\obj\Debug\net8.0-windows\The Grid contact form_MarkupCompile.lref
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\obj\Debug\net8.0-windows\MainWindow.baml
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\obj\Debug\net8.0-windows\The Grid contact form.g.resources
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\obj\Debug\net8.0-windows\The Grid contact form.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\obj\Debug\net8.0-windows\The Grid contact form.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\obj\Debug\net8.0-windows\The Grid contact form.AssemblyInfo.cs
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\obj\Debug\net8.0-windows\The Grid contact form.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\obj\Debug\net8.0-windows\The Grid contact form.sourcelink.json
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\obj\Debug\net8.0-windows\The Grid contact form.dll
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\obj\Debug\net8.0-windows\refint\The Grid contact form.dll
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\obj\Debug\net8.0-windows\The Grid contact form.pdb
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\obj\Debug\net8.0-windows\The Grid contact form.genruntimeconfig.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The Grid contact form\obj\Debug\net8.0-windows\ref\The Grid contact form.dll

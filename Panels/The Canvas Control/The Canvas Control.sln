@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grid-Units", "Grid-Units\Gr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grid-Spanning", "Grid-Spanning\Grid-Spanning.csproj", "{F1A664B4-3E94-4D7E-B68B-F8A53FB80237}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The GridSplitter", "The GridSplitter\The GridSplitter.csproj", "{31F28A6A-10BF-4EFC-9C0E-D87FCE851039}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The GridSplitter", "The GridSplitter\The GridSplitter.csproj", "{31F28A6A-10BF-4EFC-9C0E-D87FCE851039}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Grid contact form", "The Grid contact form\The Grid contact form.csproj", "{C3A1A119-FF6A-4027-AE1C-FFD20402CDC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{31F28A6A-10BF-4EFC-9C0E-D87FCE851039}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31F28A6A-10BF-4EFC-9C0E-D87FCE851039}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31F28A6A-10BF-4EFC-9C0E-D87FCE851039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3A1A119-FF6A-4027-AE1C-FFD20402CDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3A1A119-FF6A-4027-AE1C-FFD20402CDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3A1A119-FF6A-4027-AE1C-FFD20402CDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3A1A119-FF6A-4027-AE1C-FFD20402CDC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

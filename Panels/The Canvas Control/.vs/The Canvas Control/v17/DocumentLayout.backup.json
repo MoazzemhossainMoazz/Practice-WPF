@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C3A1A119-FF6A-4027-AE1C-FFD20402CDC9}|The Grid contact form\\The Grid contact form.csproj|d:\\technoart\\my work\\practice wpf\\panels\\the canvas control\\the grid contact form\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C3A1A119-FF6A-4027-AE1C-FFD20402CDC9}|The Grid contact form\\The Grid contact form.csproj|solutionrelative:the grid contact form\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3A1A119-FF6A-4027-AE1C-FFD20402CDC9}|The Grid contact form\\The Grid contact form.csproj|d:\\technoart\\my work\\practice wpf\\panels\\the canvas control\\the grid contact form\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3A1A119-FF6A-4027-AE1C-FFD20402CDC9}|The Grid contact form\\The Grid contact form.csproj|solutionrelative:the grid contact form\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31F28A6A-10BF-4EFC-9C0E-D87FCE851039}|The GridSplitter\\The GridSplitter.csproj|d:\\technoart\\my work\\practice wpf\\panels\\the canvas control\\the gridsplitter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{31F28A6A-10BF-4EFC-9C0E-D87FCE851039}|The GridSplitter\\The GridSplitter.csproj|solutionrelative:the gridsplitter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
@@ -32,10 +40,35 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The Grid contact form\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "The Grid contact form\\MainWindow.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The Grid contact form\\MainWindow.xaml*",
+              "RelativeToolTip": "The Grid contact form\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-19T05:53:22.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The Grid contact form\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "The Grid contact form\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The Grid contact form\\MainWindow.xaml.cs",
+              "RelativeToolTip": "The Grid contact form\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T05:53:21.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The GridSplitter\\MainWindow.xaml",
               "RelativeDocumentMoniker": "The GridSplitter\\MainWindow.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The GridSplitter\\MainWindow.xaml*",
-              "RelativeToolTip": "The GridSplitter\\MainWindow.xaml*",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The GridSplitter\\MainWindow.xaml",
+              "RelativeToolTip": "The GridSplitter\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-01-19T05:27:59.293Z",
               "EditorCaption": ""
