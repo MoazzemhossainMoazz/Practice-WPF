@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("The DockPanel control")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+746da042b52821d76d42b6dd32fa6d85acb19297")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+076cb7d7375453f8447845c81d6ba915b9b9ae3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("The DockPanel control")]
 [assembly: System.Reflection.AssemblyTitleAttribute("The DockPanel control")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F1A664B4-3E94-4D7E-B68B-F8A53FB80237}|Grid-Spanning\\Grid-Spanning.csproj|d:\\technoart\\my work\\practice wpf\\panels\\the canvas control\\grid-spanning\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F1A664B4-3E94-4D7E-B68B-F8A53FB80237}|Grid-Spanning\\Grid-Spanning.csproj|solutionrelative:grid-spanning\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1A664B4-3E94-4D7E-B68B-F8A53FB80237}|Grid-Spanning\\Grid-Spanning.csproj|d:\\technoart\\my work\\practice wpf\\panels\\the canvas control\\grid-spanning\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1A664B4-3E94-4D7E-B68B-F8A53FB80237}|Grid-Spanning\\Grid-Spanning.csproj|solutionrelative:grid-spanning\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5888D81F-4C20-4C5D-A7A0-AD11F6FFC18E}|Grid-Units\\Grid-Units.csproj|d:\\technoart\\my work\\practice wpf\\panels\\the canvas control\\grid-units\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{5888D81F-4C20-4C5D-A7A0-AD11F6FFC18E}|Grid-Units\\Grid-Units.csproj|solutionrelative:grid-units\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5888D81F-4C20-4C5D-A7A0-AD11F6FFC18E}|Grid-Units\\Grid-Units.csproj|d:\\technoart\\my work\\practice wpf\\panels\\the canvas control\\grid-units\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5888D81F-4C20-4C5D-A7A0-AD11F6FFC18E}|Grid-Units\\Grid-Units.csproj|solutionrelative:grid-units\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{001B4C25-FE3B-4CB6-85EB-B2178E257272}|Grid- Rows \u0026 Columns\\Grid- Rows \u0026 Columns.csproj|d:\\technoart\\my work\\practice wpf\\panels\\the canvas control\\grid- rows \u0026 columns\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{001B4C25-FE3B-4CB6-85EB-B2178E257272}|Grid- Rows \u0026 Columns\\Grid- Rows \u0026 Columns.csproj|solutionrelative:grid- rows \u0026 columns\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{001B4C25-FE3B-4CB6-85EB-B2178E257272}|Grid- Rows \u0026 Columns\\Grid- Rows \u0026 Columns.csproj|d:\\technoart\\my work\\practice wpf\\panels\\the canvas control\\grid- rows \u0026 columns\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{001B4C25-FE3B-4CB6-85EB-B2178E257272}|Grid- Rows \u0026 Columns\\Grid- Rows \u0026 Columns.csproj|solutionrelative:grid- rows \u0026 columns\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{090BE252-9451-4FDA-839D-EBA744A816E9}|The Grid Control\\The Grid Control.csproj|d:\\technoart\\my work\\practice wpf\\panels\\the canvas control\\the grid control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{090BE252-9451-4FDA-839D-EBA744A816E9}|The Grid Control\\The Grid Control.csproj|solutionrelative:the grid control\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{31F28A6A-10BF-4EFC-9C0E-D87FCE851039}|The GridSplitter\\The GridSplitter.csproj|d:\\technoart\\my work\\practice wpf\\panels\\the canvas control\\the gridsplitter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31F28A6A-10BF-4EFC-9C0E-D87FCE851039}|The GridSplitter\\The GridSplitter.csproj|solutionrelative:the gridsplitter\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,82 +32,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\Grid-Spanning\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Grid-Spanning\\MainWindow.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\Grid-Spanning\\MainWindow.xaml*",
-              "RelativeToolTip": "Grid-Spanning\\MainWindow.xaml*",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The GridSplitter\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "The GridSplitter\\MainWindow.xaml",
+              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The GridSplitter\\MainWindow.xaml*",
+              "RelativeToolTip": "The GridSplitter\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-18T11:45:02.523Z",
+              "WhenOpened": "2025-01-19T05:27:59.293Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\Grid-Spanning\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Grid-Spanning\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\Grid-Spanning\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Grid-Spanning\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T11:45:01.95Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\Grid-Units\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Grid-Units\\MainWindow.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\Grid-Units\\MainWindow.xaml",
-              "RelativeToolTip": "Grid-Units\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-18T11:34:47.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\Grid-Units\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Grid-Units\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\Grid-Units\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Grid-Units\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T11:34:46.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\Grid- Rows \u0026 Columns\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Grid- Rows \u0026 Columns\\MainWindow.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\Grid- Rows \u0026 Columns\\MainWindow.xaml",
-              "RelativeToolTip": "Grid- Rows \u0026 Columns\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-18T11:17:37.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\Grid- Rows \u0026 Columns\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Grid- Rows \u0026 Columns\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\Grid- Rows \u0026 Columns\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Grid- Rows \u0026 Columns\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T11:17:35.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The Grid Control\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "The Grid Control\\MainWindow.xaml",
-              "ToolTip": "D:\\TechnoArt\\My Work\\Practice WPF\\Panels\\The Canvas Control\\The Grid Control\\MainWindow.xaml",
-              "RelativeToolTip": "The Grid Control\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-18T10:35:21.688Z"
             }
           ]
         }

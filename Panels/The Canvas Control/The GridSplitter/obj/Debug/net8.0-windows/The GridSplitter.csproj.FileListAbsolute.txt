@@ -1,0 +1,21 @@
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\bin\Debug\net8.0-windows\The GridSplitter.exe
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\bin\Debug\net8.0-windows\The GridSplitter.deps.json
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\bin\Debug\net8.0-windows\The GridSplitter.runtimeconfig.json
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\bin\Debug\net8.0-windows\The GridSplitter.dll
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\bin\Debug\net8.0-windows\The GridSplitter.pdb
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\obj\Debug\net8.0-windows\App.g.cs
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\obj\Debug\net8.0-windows\The GridSplitter_MarkupCompile.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\obj\Debug\net8.0-windows\The GridSplitter_MarkupCompile.lref
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\obj\Debug\net8.0-windows\MainWindow.baml
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\obj\Debug\net8.0-windows\The GridSplitter.g.resources
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\obj\Debug\net8.0-windows\The GridSplitter.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\obj\Debug\net8.0-windows\The GridSplitter.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\obj\Debug\net8.0-windows\The GridSplitter.AssemblyInfo.cs
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\obj\Debug\net8.0-windows\The GridSplitter.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\obj\Debug\net8.0-windows\The GridSplitter.sourcelink.json
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\obj\Debug\net8.0-windows\The GridSplitter.dll
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\obj\Debug\net8.0-windows\refint\The GridSplitter.dll
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\obj\Debug\net8.0-windows\The GridSplitter.pdb
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\obj\Debug\net8.0-windows\The GridSplitter.genruntimeconfig.cache
+D:\TechnoArt\My Work\Practice WPF\Panels\The Canvas Control\The GridSplitter\obj\Debug\net8.0-windows\ref\The GridSplitter.dll

@@ -1,0 +1,32 @@
+﻿<Window x:Class="The_GridSplitter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:The_GridSplitter"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="300" Width="300">
+    
+    <!--Vertical GridSplitter
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="5" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <TextBlock FontSize="55" HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap">Left side</TextBlock>
+        <GridSplitter Grid.Column="1" Width="5" HorizontalAlignment="Stretch"/>
+        <TextBlock FontSize="55" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="2" TextWrapping="Wrap">Right side</TextBlock>
+    </Grid>-->
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="5"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock FontSize="55" VerticalAlignment="Center" HorizontalAlignment="Center" TextWrapping="Wrap">Top side</TextBlock>
+        <GridSplitter Grid.Row="1" Height="5" HorizontalAlignment="Stretch"/>
+        <TextBlock FontSize="55" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap">Bottom side</TextBlock>
+    </Grid>
+</Window>

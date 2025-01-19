@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The DockPanel control", "Th
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Grid Control", "The Grid Control\The Grid Control.csproj", "{090BE252-9451-4FDA-839D-EBA744A816E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid- Rows & Columns", "Grid- Rows & Columns\Grid- Rows & Columns.csproj", "{001B4C25-FE3B-4CB6-85EB-B2178E257272}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grid- Rows & Columns", "Grid- Rows & Columns\Grid- Rows & Columns.csproj", "{001B4C25-FE3B-4CB6-85EB-B2178E257272}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid-Units", "Grid-Units\Grid-Units.csproj", "{5888D81F-4C20-4C5D-A7A0-AD11F6FFC18E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grid-Units", "Grid-Units\Grid-Units.csproj", "{5888D81F-4C20-4C5D-A7A0-AD11F6FFC18E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grid-Spanning", "Grid-Spanning\Grid-Spanning.csproj", "{F1A664B4-3E94-4D7E-B68B-F8A53FB80237}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grid-Spanning", "Grid-Spanning\Grid-Spanning.csproj", "{F1A664B4-3E94-4D7E-B68B-F8A53FB80237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The GridSplitter", "The GridSplitter\The GridSplitter.csproj", "{31F28A6A-10BF-4EFC-9C0E-D87FCE851039}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{F1A664B4-3E94-4D7E-B68B-F8A53FB80237}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1A664B4-3E94-4D7E-B68B-F8A53FB80237}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1A664B4-3E94-4D7E-B68B-F8A53FB80237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31F28A6A-10BF-4EFC-9C0E-D87FCE851039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31F28A6A-10BF-4EFC-9C0E-D87FCE851039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31F28A6A-10BF-4EFC-9C0E-D87FCE851039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31F28A6A-10BF-4EFC-9C0E-D87FCE851039}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
